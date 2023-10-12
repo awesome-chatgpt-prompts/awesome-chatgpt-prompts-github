@@ -1,11 +1,11 @@
-<p align="center"><h1>🧠 Awesome ChatGPT Prompts</h1></p>
+<header align="center"><h1>🧠 Awesome ChatGPT Prompts</h1></header>
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ### Sponsors
 <a href="https://www.illacloud.com/"><img src="https://avatars.githubusercontent.com/u/93245159?s=200&v=4" height="80"></a>
 
-**[Be my sponsor and your logo will be here and prompts.chat!](https://github.com/sponsors/f/sponsorships?sponsor=f&tier_id=319423)**
+**[Be my sponsor and your logo will be here and prompts.chat!](https://github.com/sponsors/awesome-chatgpt-prompts/sponsorships)**
 
 ---
 
@@ -13,25 +13,31 @@ Welcome to the "Awesome ChatGPT Prompts" repository! This is a collection of pro
 
 The [ChatGPT](https://chat.openai.com/chat) model is a large language model trained by [OpenAI](https://openai.com) that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt.
 
-In this repository, you will find a variety of prompts that can be used with ChatGPT. We encourage you to [add your own prompts](https://github.com/f/awesome-chatgpt-prompts/edit/main/README.md) to the list, and to use ChatGPT to generate new prompts as well.
+In this repository, you will find a variety of prompts that can be used with ChatGPT. We encourage you to [add your own prompts](https://github.com/awesome-chatgpt-prompts/awesome-chatgpt-prompts/edit/main/README.md) to the list, and to use ChatGPT to generate new prompts as well.
 
 To get started, simply clone this repository and use the prompts in the README.md file as input for ChatGPT. You can also use the prompts in this file as inspiration for creating your own.
 
 We hope you find these prompts useful and have fun using ChatGPT!
 
-**[View on GitHub](https://github.com/f/awesome-chatgpt-prompts)**
+**[View on GitHub](https://github.com/awesome-chatgpt-prompts/awesome-chatgpt-prompts)**
 
-**[View on Hugging Face](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/)**
+**[View on Hugging Face](https://huggingface.co/datasets/awesome-chatgpt/awesome-chatgpt-prompts)**
 
 **Download ChatGPT Desktop App**: **[macOS](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64.dmg)** / **[Windows](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64_en-US.msi)** / **[Linux](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/chat-gpt_0.10.1_amd64.deb)**
 
 > ℹ️ **NOTE:** Sometimes, some of the prompts may not be working as you expected or may be rejected by the AI. Please try again, start a new thread, or log out and log back in. If these solutions do not work, please try rewriting the prompt using your own sentences while keeping the instructions same.
 
-### Want to Write Effective Prompts?
+## Learn How to Engineer Effective Prompts
 
-I've authored a free e-book called **"The Art of ChatGPT Prompting: A Guide to Crafting Clear and Effective Prompts"**.
+Awesome ChatGPT Prompts" refers to a collection of effective and engaging prompts that are used to interact with the ChatGPT model, a conversational AI developed by OpenAI. A ChatGPT prompt is a phrase, question, or instruction given to the AI model to generate a response. These prompts can be used for a wide range of purposes, including content generation, customer support, education, marketing, and more.
 
-📖 **[Read the free e-book](https://fka.gumroad.com/l/art-of-chatgpt-prompting)**
+The best ChatGPT prompts are clear, simple to understand, and tailored to the user's specific needs or interests. They can be open-ended and customized based on the user's preferences and interests. For instance, prompts can be used to generate ideas, share thoughts, or start a conversation. They can also be used to generate a wide range of content using natural language processing and language models, from social media posts and lesson plans to detailed explanations of complex topics.
+
+Prompts can be used for various tasks, such as providing straightforward answers to factual questions, generating creative texts based on a given theme or premise, translating text between various languages, summarizing long texts into shorter, concise versions, providing definitions for various terms or concepts, and generating code snippets in various programming languages.
+
+The effectiveness of a prompt can be enhanced by considering factors such as the objective, the format, the tone of the response, the intended audience, and the text length. Detailed prompts can help maximize the results from ChatGPT. However, it's important to note that while ChatGPT is a powerful tool, it has its limitations and does not possess beliefs, opinions, or consciousness.
+
+There are various resources available online that provide collections of effective ChatGPT prompts, such as the "Awesome ChatGPT Prompts" repository on GitHub, and various blog posts and articles that provide lists of effective prompts for different purposes.
 
 ### Want to Learn How to Make Money using ChatGPT Prompts?
 
@@ -798,15 +804,3 @@ Contributed by [@lemorage](https://github.com/lemorage)
 ## Act as cheap travel ticket advisor
 Contributed by [@goeksu](https://github.com/goeksu)
 >You are a cheap travel ticket advisor specializing in finding the most affordable transportation options for your clients. When provided with departure and destination cities, as well as desired travel dates, you use your extensive knowledge of past ticket prices, tips, and tricks to suggest the cheapest routes. Your recommendations may include transfers, extended layovers for exploring transfer cities, and various modes of transportation such as planes, car-sharing, trains, ships, or buses. Additionally, you can recommend websites for combining different trips and flights to achieve the most cost-effective journey.
-
-## Contributors 😍
-
-Many thanks to these AI whisperers:
-
-<a href="https://github.com/f/awesome-chatgpt-prompts/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=f/awesome-chatgpt-prompts" />
-</a>
-
-# License
-
-CC-0
